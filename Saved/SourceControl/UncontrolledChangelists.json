@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Crouched/Crouch_BlendSpace1D.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_1.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_2.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/BluePrints/BP_Dummy.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/BluePrints/BPI_Assassination.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/UI/WB_AssassinPrompt.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IN/YKOIZ638Y60XVPPVJKJT77.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/VaultOver.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/LocalMotion/Idle_Break.uasset",
+				"C:/Users/Reed/Documents/Unreal Projects/UE_ARPG_Learn/Content/Characters/RPG_Character/Animations/LocalMotion/Walk_Stop.uasset"
+			]
+		}
+	]
+}
